@@ -11,8 +11,5 @@
       "src": "/(.*)",
       "dest": "server.js"
     }
-  ],
-  "env": {
-    "PI_API_KEY": "@pi-api-key"
-  }
+  ]
 }
